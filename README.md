@@ -6,7 +6,7 @@ This is a simple and elegant **Job Application Form** built using **HTML** and *
 
 ## 📸 Screenshot
 
-![Job Application Form Screenshot](./Screenshot%20(91).png)
+![Image](https://github.com/user-attachments/assets/08c0f9b1-4ba7-4e50-91bc-82b551a83541)
 
 ---
 
