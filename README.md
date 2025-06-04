@@ -33,9 +33,3 @@ This is a simple and elegant **Job Application Form** built using **HTML** and *
 - Styled "Apply Now" button with hover effect.
 
 ---
-
-## 🔧 How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/job-application-form.git
